@@ -6,7 +6,9 @@
 
 > Professor: Luciano Octavio Condori Huanca
 
-Projeto para Disciplina de Cálculo pertencente à Faculdade de Tecnologia do Estado de São Paulo, referente à unidade Carapicuíba. Seu desenvolvimento se encerrou no dia 02/12/2024.
+Projeto para Disciplina de Cálculo pertencente à Faculdade de Tecnologia do Estado de São Paulo, referente à unidade Carapicuíba. 
+
+Seu desenvolvimento se iniciou dia 04/11/2024 e se encerrou no dia 02/12/2024.
 
 O propósito do projeto é informar e ensinar sobre a disciplina para aqueles que nunca tiveram contato com ela.
 
@@ -27,6 +29,10 @@ O projeto utiliza em conjunto as linguagens HTML 5 e CSS 3, sem a presença de J
 Sua composição se deve por: 93,5% HTML e 6,5% CSS;
 
 O projeto foi hospedado no Github Pages para acesso geral/remoto;
+
+## Como usá-lo:
+
+O projeto se trata de um blog online, para utilizá-lo basta acessar o link, os vídeos são incorporados do YouTube e estarão disponíveis para assistir enquanto os originais existirem.
 
 ## Sobre Cálculo:
 
