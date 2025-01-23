@@ -26,8 +26,6 @@ Link para acesso/visualização do projeto: https://victorponciano1.github.io/bl
 
 O projeto utiliza em conjunto as linguagens HTML 5 e CSS 3, sem a presença de JavaScript.
 
-Sua composição se deve por: 93,5% HTML e 6,5% CSS;
-
 O projeto foi hospedado no Github Pages para acesso geral/remoto;
 
 ## Como usá-lo:
