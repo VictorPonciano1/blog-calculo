@@ -14,7 +14,7 @@ O propósito do projeto é informar e ensinar sobre a disciplina para aqueles qu
 
 ## Acesso ao projeto:
 
-Link para acesso/visualização do projeto: https://victorponciano1.github.io/blog_calculo/
+Link para acesso/visualização do projeto: (https://victorponciano1.github.io/blog_calculo/)
 
 ## O que é contido no projeto:
 
