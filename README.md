@@ -1,6 +1,6 @@
 # BLOG DE CÁLCULO
 
-> Status: Completo/Finalizado
+> Status: Completo/Finalizado ✔️
 
 > Desenvolvedor: Victor Dias Ponciano - Aluno ADS Noturno
 
