@@ -12,10 +12,6 @@ Seu desenvolvimento se iniciou dia 04/11/2024 e se encerrou no dia 02/12/2024.
 
 O propósito do projeto é informar e ensinar sobre a disciplina para aqueles que nunca tiveram contato com ela.
 
-## Acesso ao projeto:
-
-Link para acesso/visualização do projeto: (https://victorponciano1.github.io/blog-calculo/)
-
 ## O que é contido no projeto:
 
 + Anotações diversas;
