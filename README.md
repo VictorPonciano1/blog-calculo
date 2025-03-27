@@ -2,7 +2,7 @@
 
 > Status: Completo/Finalizado ✔️
 
-> Desenvolvedor: Victor Dias Ponciano - Aluno ADS Noturno
+> Desenvolvedor: Victor Dias Ponciano - Aluno FATEC ADS Noturno
 
 > Professor: Luciano Octavio Condori Huanca
 
